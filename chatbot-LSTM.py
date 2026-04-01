@@ -46,7 +46,7 @@ LOGO5 = r"""
        ────────[ I AM A MODEL]────────
 """
 version = "1.1.0"
-branch = "alpha"
+branch = "beta"
 import sys
 import os
 import warnings
