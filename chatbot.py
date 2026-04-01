@@ -43,7 +43,7 @@ LOGO5 = r"""
        ────────[ I AM A MODEL]────────
 """
 version = "1.0.0"
-branch = "alpha"
+branch = "main"
 import sys
 import os
 import warnings
@@ -90,6 +90,7 @@ fpolicy = "mixed_float16"
 CALLBACK_STATE_FILE = os.path.join(SCRIPT_DIR, "callbacks_state.pkl")
 MODEL_CKPT = os.path.join(SCRIPT_DIR, "ckpt.keras")
 
+print("Theres a new version of this script avilable, please head to 'https://github.com/TheManOnPi/Iamam-an-ai-model' to see it!")
 # --- FORCE WORKING DIRECTORY TO SCRIPT LOCATION ---
 os.chdir(SCRIPT_DIR)
 
