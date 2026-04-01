@@ -1,4 +1,9 @@
-# Iamam-an-ai-model
-A LSTM ai model.
-## Newest recommended version:
-v1.1.0, find it in 'https://github.com/TheManOnPi/Iamam-an-ai-model/blob/beta/chatbot-LSTM.py'
+# Heres a list of models!
+
+## IAM v1.0:
+ - A ai model
+ - Could benifit from RLHF
+ - Could benifit from finetuning
+ - Could benifit from PPO
+ - It has very basic simantic links between subjects, it must be run using the IAMAM script v1.1.1
+ - Its avalable at: [coming soon]
