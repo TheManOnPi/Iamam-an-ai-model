@@ -1,6 +1,6 @@
 # Models:
 
-IAM v1.0:
+## IAM v1.0:
  - A ai model
  - Could benifit from RLHF
  - Could benifit from finetuning
